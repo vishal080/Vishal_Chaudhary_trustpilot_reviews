@@ -3,16 +3,7 @@
 
 This repository contains the code and data for building an intent classification model for Novo's customer feedback. The goal is to develop a system that labels multiple intents in customer tickets to build an intelligent routing engine.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Data](#data)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Prediction](#prediction)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
